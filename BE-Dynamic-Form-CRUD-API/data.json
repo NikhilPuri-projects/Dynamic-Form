@@ -1,0 +1,126 @@
+{
+    "username": "John Doe",
+    "formData": {
+        "data": [
+            {
+                "position": 1,
+                "column_heading": "Enter your name",
+                "post_api_key": "name",
+                "column_name": "name",
+                "column_type": "text",
+                "column_placeholder": "enter your name",
+                "column_options": [],
+                "column_mandatory": true
+            },
+            {
+                "column_heading": "Enter your email",
+                "position": 2,
+                "post_api_key": "email",
+                "column_name": "email",
+                "column_type": "email",
+                "column_placeholder": "enter your email",
+                "column_options": [],
+                "column_mandatory": true
+            },
+            {
+                "column_heading": "Enter your password",
+                "position": 3,
+                "post_api_key": "password",
+                "column_name": "password",
+                "column_type": "password",
+                "column_placeholder": "enter your password",
+                "column_options": [],
+                "column_mandatory": true
+            },
+            {
+                "column_heading": "Select your interest",
+                "position": 4,
+                "post_api_key": "interests",
+                "column_name": "interests",
+                "column_type": "radio",
+                "column_placeholder": "select interests",
+                "column_options": [
+                    {
+                        "label": "chess",
+                        "value": "chess"
+                    },
+                    {
+                        "label": "cricket",
+                        "value": "cricket"
+                    }
+                ],
+                "column_mandatory": false
+            },
+            {
+                "column_heading": "Enter your number",
+                "position": 5,
+                "post_api_key": "number",
+                "column_name": "number",
+                "column_type": "number",
+                "column_placeholder": "enter your number",
+                "column_options": [],
+                "column_mandatory": false
+            },
+            {
+                "column_heading": "Enter time",
+                "position": 6,
+                "post_api_key": "time",
+                "column_name": "time",
+                "column_type": "time",
+                "column_placeholder": "enter time",
+                "column_options": [],
+                "column_mandatory": false
+            },
+            {
+                "column_heading": "Select your hobbies",
+                "position": 7,
+                "post_api_key": "hobbies",
+                "column_name": "hobbies",
+                "column_type": "select",
+                "column_placeholder": "select hobbies",
+                "column_options": [
+                    {
+                        "label": "football",
+                        "value": "football"
+                    },
+                    {
+                        "label": "bgmi",
+                        "value": "bgmi"
+                    }
+                ],
+                "column_mandatory": false
+            },
+            {
+                "column_heading": "Usual mode of transport",
+                "position": 8,
+                "post_api_key": "transport",
+                "column_name": "transport",
+                "column_type": "checkbox",
+                "column_placeholder": "select mode of transport",
+                "column_options": [
+                    {
+                        "label": "bike",
+                        "value": "bike"
+                    },
+                    {
+                        "label": "car",
+                        "value": "car"
+                    }
+                ],
+                "column_mandatory": false
+            },
+            {
+                "column_heading": "Enter date",
+                "position": 9,
+                "post_api_key": "date",
+                "column_name": "date",
+                "column_type": "date",
+                "column_placeholder": "enter  date",
+                "column_options": [],
+                "column_mandatory": false
+            }
+        ]
+    },
+    "userId": 4
+}
+

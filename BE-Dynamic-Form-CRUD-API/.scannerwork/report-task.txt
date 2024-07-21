@@ -1,0 +1,6 @@
+projectKey=IDP-setup_xenon-clinic-poc_31aa1417-0431-49fb-a316-be4ab0b4742a
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=IDP-setup_xenon-clinic-poc_31aa1417-0431-49fb-a316-be4ab0b4742a
+ceTaskId=cc52dad3-f3fe-4a2a-aec0-96bd55f9ed67
+ceTaskUrl=http://localhost:9000/api/ce/task?id=cc52dad3-f3fe-4a2a-aec0-96bd55f9ed67

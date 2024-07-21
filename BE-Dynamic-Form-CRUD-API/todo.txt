@@ -1,0 +1,17 @@
+<input type="checkbox">
+<input type="date">1
+<input type="email">1
+<input type="file">
+<input type="number">1
+<input type="password">1
+<input type="radio"> 1
+<input type="text">1
+<input type="time">1
+<input type="select">   1
+
+column_name: String
+column_type: String (above desc)
+column_placeholder
+if - checkbox, select, radio : column_options: [{label:String, value: String}]
+column_mandatory: Bool
+
